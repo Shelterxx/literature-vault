@@ -1,0 +1,30 @@
+---
+title: "A Weighted Resampling Framework for Causal Transportability"
+authors: [Jianqiao; id_orcid 0000-0001-5945-1736 Mao, Max A. Little]
+doi: ""
+score: 3
+date: 2026-04-15
+topics: ["Env-CS Computing"]
+keywords: [因果可迁移性, 加权重采样, 干预分布, 去混杂程序, 因果机器学习]
+source: openalex
+---
+
+## Summary
+(No summary available)
+
+## Related Papers
+[[10.1186-s43055-026-01738-8]]
+[[10.12998-wjcc.v14.i12.119786]]
+[[10.1098-rsif.2025.0997]]
+[[10.1007-s40789-026-00882-w]]
+[[10.18860-cauchy.v11i1.40243]]
+[[10.18860-cauchy.v11i1.41353]]
+[[10.1007-s11633-025-1583-z]]
+[[title-98c095a07b1c95b1]]
+[[title-3283f69da0755a48]]
+[[title-f93de82d7b7cac3c]]
+[[title-0b55f16fad79479f]]
+[[title-ea2e63872028b7c0]]
+[[title-6581296a587b9739]]
+[[title-43370a0b96c4d6be]]
+[[Env-CS Computing]]
