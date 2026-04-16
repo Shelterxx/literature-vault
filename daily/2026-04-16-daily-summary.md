@@ -2,74 +2,74 @@
 
 ## Statistics
 - Total new papers: 30
-- HIGH: 16, MEDIUM: 0, LOW: 14
+- HIGH: 19, MEDIUM: 0, LOW: 11
 
 ## Atmospheric Environment
 | Score | Title | Link |
 |-------|-------|------|
-| 8 | [[10.1007-s11356-019-04772-4|Fine-resolution mapping of particulate matter concentration in urban areas and population exposure analysis via dispersion modeling: a study in Daejeon]] | [source](https://doi.org/10.1007/s11356-019-04772-4) |
-| 8 | [[10.1007-s11356-019-05001-8|Winter chemical partitioning of metals bound to atmospheric fine particles in Dongguan]] | [source](https://doi.org/10.1007/s11356-019-05001-8) |
-| 8 | [[10.1007-s11356-019-06613-w|Pollutant gas and particulate material emissions in ethanol production in Brazil: social and environmental impacts]] | [source](https://doi.org/10.1007/s11356-019-06613-w) |
-| 8 | [[10.1007-s11356-020-09042-2|Ambient air pollution and its influence on human health and welfare: an overview]] | [source](https://doi.org/10.1007/s11356-020-09042-2) |
-| 8 | [[10.1007-s11356-020-10361-7|Current scenario of CNG vehicular pollution and their possible abatement technologies: an overview]] | [source](https://doi.org/10.1007/s11356-020-10361-7) |
-| 8 | [[10.1007-s11356-022-20769-y|Phyto-cleaning of particulate matter from polluted air by woody plant species in the near-desert city of Jodhpur (India) and the role of heme oxygenase in their response to PM stress conditions]] | [source](https://doi.org/10.1007/s11356-022-20769-y) |
-| 8 | [[10.1016-0160-4120(88|An appraisal of atmospheric pollution by aluminium fumes emanating from smelter works in Western Norway]] | [source](https://doi.org/10.1016/0160-4120(88) |
-| 8 | [[10.1016-j.envint.2021.106930|Long-term exposure to PM10 above WHO guidelines exacerbates COVID-19 severity and mortality]] | [source](https://doi.org/10.1016/j.envint.2021.106930) |
-| 8 | [[10.1016-j.envpol.2014.04.036|Characteristics of particulate matter (PM10) and its relationship with meteorological factors during 2001–2012 in Beijing]] | [source](https://doi.org/10.1016/j.envpol.2014.04.036) |
-| 6 | [[10.1007-s11356-021-12866-1|Can the environmental health of urban centers be assessed through pollutants trapped in lakes? A study case in the biggest city of the southern hemisphere]] | [source](https://doi.org/10.1007/s11356-021-12866-1) |
-| 5 | [[10.1016-j.envpol.2006.03.010|Assessment of atmospheric metallic pollution in the metropolitan region of São Paulo]] | [source](https://doi.org/10.1016/j.envpol.2006.03.010) |
-| 4 | [[10.1016-0160-4120(91|Studies on the levels of sulphur dioxide]] | [source](https://doi.org/10.1016/0160-4120(91) |
-| 3 | [[10.1007-s11356-015-4856-1|A new online exhaust gas monitoring system in hydrochloric acid regeneration of cold rolling mills]] | [source](https://doi.org/10.1007/s11356-015-4856-1) |
-| 2 | [[10.1006-jema.2001.0449|Environmental regionalization for the management of township and village enterprises in China]] | [source](https://doi.org/10.1006/jema.2001.0449) |
-| 2 | [[10.1016-j.ecolecon.2008.05.017|The Environment and Well-Being in Urban China]] | [source](https://doi.org/10.1016/j.ecolecon.2008.05.017) |
+| 9 | [[10.1016-j.jenvman.2019.109520|Inter-city air pollutant transport in The Beijing-Tianjin-Hebei urban agglomeration: Comparison between the winters of 2012 and 2016]] | [source](https://doi.org/10.1016/j.jenvman.2019.109520) |
+| 9 | [[10.1016-j.scitotenv.2022.155980|Mass concentrations and elemental analysis of PM2.5 and PM10 in a coastal Mediterranean site: A holistic approach to identify contributing sources and varying factors]] | [source](https://doi.org/10.1016/j.scitotenv.2022.155980) |
+| 8 | [[10.1016-j.jclepro.2017.08.215|Are the temporal variation and spatial variation of ambient SO2 concentrations determined by different factors?]] | [source](https://doi.org/10.1016/j.jclepro.2017.08.215) |
+| 8 | [[10.1016-j.jclepro.2019.06.293|Provincial air pollution responsibility and environmental tax of China based on interregional linkage indicators]] | [source](https://doi.org/10.1016/j.jclepro.2019.06.293) |
+| 8 | [[10.1016-j.jclepro.2020.122049|Spatio-temporal distribution and influencing factors of atmospheric polycyclic aromatic hydrocarbons in the Yangtze River Delta]] | [source](https://doi.org/10.1016/j.jclepro.2020.122049) |
+| 8 | [[10.1016-j.jenvman.2023.119198|A method of gas-related pollution source layout based on multi-source data: A case study of shaanxi province]] | [source](https://doi.org/10.1016/j.jenvman.2023.119198) |
+| 8 | [[10.1016-j.resconrec.2017.10.002|International trade linked with disease burden from airborne particulate pollution]] | [source](https://doi.org/10.1016/j.resconrec.2017.10.002) |
+| 8 | [[10.1016-j.scitotenv.2019.07.341|The air pollution governed by subtropical high in a coastal city in Southeast China: Formation processes and influencing mechanisms]] | [source](https://doi.org/10.1016/j.scitotenv.2019.07.341) |
+| 8 | [[10.1016-j.scitotenv.2020.137494|Latest observations of total gaseous mercury in a megacity (Lanzhou) in northwest China]] | [source](https://doi.org/10.1016/j.scitotenv.2020.137494) |
+| 8 | [[10.1016-j.scitotenv.2020.139112|Study on the characteristics of black carbon during atmospheric pollution conditions in Beijing]] | [source](https://doi.org/10.1016/j.scitotenv.2020.139112) |
+| 8 | [[10.1016-j.scs.2022.104129|Urban ventilation corridors exacerbate air pollution in central urban areas: Evidence from a Chinese city]] | [source](https://doi.org/10.1016/j.scs.2022.104129) |
+| 6 | [[10.1016-s0269-7491(01|Effects of atmospheric pollution on lichen biodiversity (LB) in a Mediterranean region (Liguria]] | [source](https://doi.org/10.1016/s0269-7491(01) |
+| 5 | [[10.1016-j.jclepro.2021.128477|Does the public haze pollution concern expressed on online platforms promoted pollution control? – Evidence from Chinese online platforms]] | [source](https://doi.org/10.1016/j.jclepro.2021.128477) |
+| 5 | [[10.1016-j.jhazmat.2013.01.008|Buildings as repositories of hazardous pollutants of anthropogenic origin]] | [source](https://doi.org/10.1016/j.jhazmat.2013.01.008) |
+| 2 | [[10.1016-s0160-4120(97|Hospital airborne microbial pollution in a desert country]] | [source](https://doi.org/10.1016/s0160-4120(97) |
 
 ## Env-CS Computing
 | Score | Title | Link |
 |-------|-------|------|
-| 9 | [[10.1007-s11356-021-17442-1|A systematic literature review of deep learning neural network for time series air quality forecasting]] | [source](https://doi.org/10.1007/s11356-021-17442-1) |
-| 9 | [[10.1016-j.envpol.2022.120798|Predicting ozone formation in petrochemical industrialized Lanzhou city by interpretable ensemble machine learning]] | [source](https://doi.org/10.1016/j.envpol.2022.120798) |
-| 9 | [[10.1016-j.jclepro.2019.118955|Identification of high impact factors of air quality on a national scale using big data and machine learning techniques]] | [source](https://doi.org/10.1016/j.jclepro.2019.118955) |
-| 9 | [[10.1016-j.jclepro.2020.121975|High temporal resolution prediction of street-level PM2.5 and NOx concentrations using machine learning approach]] | [source](https://doi.org/10.1016/j.jclepro.2020.121975) |
-| 8 | [[10.1016-j.envint.2023.107969|Ozone response modeling to NOx and VOC emissions: Examining machine learning models]] | [source](https://doi.org/10.1016/j.envint.2023.107969) |
-| 8 | [[10.1016-j.envpol.2023.122358|Advances and applications of machine learning and deep learning in environmental ecology and health]] | [source](https://doi.org/10.1016/j.envpol.2023.122358) |
-| 8 | [[10.1016-j.jclepro.2022.133406|Using machine learning methods to predict VOC emissions in chemical production with hourly process parameters]] | [source](https://doi.org/10.1016/j.jclepro.2022.133406) |
-| 4 | [[10.1007-s11356-021-14017-y|Advent of Big Data technology in environment and water management sector]] | [source](https://doi.org/10.1007/s11356-021-14017-y) |
-| 4 | [[10.1016-j.jclepro.2023.136117|Desensitization method of meteorological data based on differential privacy protection]] | [source](https://doi.org/10.1016/j.jclepro.2023.136117) |
-| 2 | [[10.1007-s11157-021-09591-z|Smart controlled environment agriculture methods: a holistic review]] | [source](https://doi.org/10.1007/s11157-021-09591-z) |
-| 2 | [[10.1016-j.apenergy.2017.12.054|Robust ensemble learning framework for day-ahead forecasting of household based energy consumption]] | [source](https://doi.org/10.1016/j.apenergy.2017.12.054) |
-| 2 | [[10.1016-j.apenergy.2020.115237|Machine learning driven smart electric power systems: Current trends and new perspectives]] | [source](https://doi.org/10.1016/j.apenergy.2020.115237) |
-| 2 | [[10.1016-j.enpol.2019.06.004|Integration in the European electricity market: A machine learning-based convergence analysis for the Central Western Europe region]] | [source](https://doi.org/10.1016/j.enpol.2019.06.004) |
-| 2 | [[10.1016-j.ijhydene.2024.04.215|A review on nanofluid]] | [source](https://doi.org/10.1016/j.ijhydene.2024.04.215) |
-| 2 | [[10.1016-j.jclepro.2024.141916|Numerical investigation of carbon dioxide capture using nanofluids via machine learning]] | [source](https://doi.org/10.1016/j.jclepro.2024.141916) |
+| 9 | [[10.1016-j.scitotenv.2021.151204|Development and application of an automated air quality forecasting system based on machine learning]] | [source](https://doi.org/10.1016/j.scitotenv.2021.151204) |
+| 8 | [[10.1016-j.scitotenv.2021.145187|Season]] | [source](https://doi.org/10.1016/j.scitotenv.2021.145187) |
+| 8 | [[10.1016-j.scitotenv.2023.166946|Revisiting the dynamics of gaseous ammonia and ammonium aerosols during the COVID-19 lockdown in urban Beijing using machine learning models]] | [source](https://doi.org/10.1016/j.scitotenv.2023.166946) |
+| 8 | [[10.1016-j.scitotenv.2023.167705|Recent applications of AI to environmental disciplines: A review]] | [source](https://doi.org/10.1016/j.scitotenv.2023.167705) |
+| 8 | [[10.1016-j.scs.2021.102923|An improved pollution forecasting model with meteorological impact using multiple imputation and fine-tuning approach]] | [source](https://doi.org/10.1016/j.scs.2021.102923) |
+| 8 | [[10.1016-j.scs.2021.103643|Prediction and evaluation of spatial distributions of ozone and urban heat island using a machine learning modified land use regression method]] | [source](https://doi.org/10.1016/j.scs.2021.103643) |
+| 8 | [[10.1016-j.scs.2022.103789|Prediction of gas leakage and dispersion in utility tunnels based on CFD-EnKF coupling model: A 3D full-scale application]] | [source](https://doi.org/10.1016/j.scs.2022.103789) |
+| 8 | [[10.1016-j.scs.2023.104653|Machine learning and remote sensing integration for leveraging urban sustainability: A review and framework]] | [source](https://doi.org/10.1016/j.scs.2023.104653) |
+| 6 | [[10.1016-j.scitotenv.2022.157034|Parameter regionalization based on machine learning optimizes the estimation of reference evapotranspiration in data deficient area]] | [source](https://doi.org/10.1016/j.scitotenv.2022.157034) |
+| 3 | [[10.1016-j.rser.2021.110889|Artificial intelligence and internet of things to improve efficacy of diagnosis and remote sensing of solar photovoltaic systems: Challenges]] | [source](https://doi.org/10.1016/j.rser.2021.110889) |
+| 2 | [[10.1016-j.rser.2020.109889|Passive and active phase change materials integrated building energy systems with advanced machine-learning based climate-adaptive designs]] | [source](https://doi.org/10.1016/j.rser.2020.109889) |
+| 2 | [[10.1016-j.rser.2022.112704|A review on occupancy prediction through machine learning for enhancing energy efficiency]] | [source](https://doi.org/10.1016/j.rser.2022.112704) |
+| 2 | [[10.1016-j.scitotenv.2014.10.009|Modeling water outflow from tile-drained agricultural fields]] | [source](https://doi.org/10.1016/j.scitotenv.2014.10.009) |
+| 2 | [[10.1016-j.scitotenv.2020.141582|Earthquake hazard and risk assessment using machine learning approaches at Palu]] | [source](https://doi.org/10.1016/j.scitotenv.2020.141582) |
+| 2 | [[10.1016-j.scs.2021.102994|A new distributed architecture for evaluating AI-based security systems at the edge: Network TON_IoT datasets]] | [source](https://doi.org/10.1016/j.scs.2021.102994) |
 
 ## All Papers
-- [[10.1006-jema.2001.0449]]
-- [[10.1007-s11356-015-4856-1]]
-- [[10.1007-s11356-019-04772-4]]
-- [[10.1007-s11356-019-05001-8]]
-- [[10.1007-s11356-019-06613-w]]
-- [[10.1007-s11356-020-09042-2]]
-- [[10.1007-s11356-020-10361-7]]
-- [[10.1007-s11356-021-12866-1]]
-- [[10.1007-s11356-022-20769-y]]
-- [[10.1016-0160-4120(88]]
-- [[10.1016-0160-4120(91]]
-- [[10.1016-j.ecolecon.2008.05.017]]
-- [[10.1016-j.envint.2021.106930]]
-- [[10.1016-j.envpol.2006.03.010]]
-- [[10.1016-j.envpol.2014.04.036]]
-- [[10.1007-s11157-021-09591-z]]
-- [[10.1007-s11356-021-14017-y]]
-- [[10.1007-s11356-021-17442-1]]
-- [[10.1016-j.apenergy.2017.12.054]]
-- [[10.1016-j.apenergy.2020.115237]]
-- [[10.1016-j.enpol.2019.06.004]]
-- [[10.1016-j.envint.2023.107969]]
-- [[10.1016-j.envpol.2022.120798]]
-- [[10.1016-j.envpol.2023.122358]]
-- [[10.1016-j.ijhydene.2024.04.215]]
-- [[10.1016-j.jclepro.2019.118955]]
-- [[10.1016-j.jclepro.2020.121975]]
-- [[10.1016-j.jclepro.2022.133406]]
-- [[10.1016-j.jclepro.2023.136117]]
-- [[10.1016-j.jclepro.2024.141916]]
+- [[10.1016-j.jclepro.2017.08.215]]
+- [[10.1016-j.jclepro.2019.06.293]]
+- [[10.1016-j.jclepro.2020.122049]]
+- [[10.1016-j.jclepro.2021.128477]]
+- [[10.1016-j.jenvman.2019.109520]]
+- [[10.1016-j.jenvman.2023.119198]]
+- [[10.1016-j.jhazmat.2013.01.008]]
+- [[10.1016-j.resconrec.2017.10.002]]
+- [[10.1016-j.scitotenv.2019.07.341]]
+- [[10.1016-j.scitotenv.2020.137494]]
+- [[10.1016-j.scitotenv.2020.139112]]
+- [[10.1016-j.scitotenv.2022.155980]]
+- [[10.1016-j.scs.2022.104129]]
+- [[10.1016-s0160-4120(97]]
+- [[10.1016-s0269-7491(01]]
+- [[10.1016-j.rser.2020.109889]]
+- [[10.1016-j.rser.2021.110889]]
+- [[10.1016-j.rser.2022.112704]]
+- [[10.1016-j.scitotenv.2014.10.009]]
+- [[10.1016-j.scitotenv.2020.141582]]
+- [[10.1016-j.scitotenv.2021.145187]]
+- [[10.1016-j.scitotenv.2021.151204]]
+- [[10.1016-j.scitotenv.2022.157034]]
+- [[10.1016-j.scitotenv.2023.166946]]
+- [[10.1016-j.scitotenv.2023.167705]]
+- [[10.1016-j.scs.2021.102923]]
+- [[10.1016-j.scs.2021.102994]]
+- [[10.1016-j.scs.2021.103643]]
+- [[10.1016-j.scs.2022.103789]]
+- [[10.1016-j.scs.2023.104653]]
