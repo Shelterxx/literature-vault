@@ -1,0 +1,24 @@
+---
+title: "Educating Birthing Professionals About the Benefits of Occupational and Physical Therapy in the Acute Postpartum Period"
+authors: [Jayde Monteiro, Burke, Kathryn, OTD, OTR/L]
+doi: ""
+score: 1
+date: 2026-05-02
+topics: ["固废危废智能监管"]
+keywords: [急性产后护理, 职业治疗, 物理治疗, 教育规划, 混合方法]
+source: openalex
+---
+
+## Summary
+(No summary available)
+
+## Related Papers
+[[10.1007-s10311-020-01111-9]]
+[[10.1007-s11356-019-04289-w]]
+[[10.1007-s11356-020-08524-7]]
+[[10.1007-s11356-022-19654-5]]
+[[10.1007-s11783-021-1407-5]]
+[[10.1016-j.biotechadv.2003.08.007]]
+[[10.1016-j.enconman.2009.07.002]]
+[[10.1016-j.jclepro.2007.02.014]]
+[[固废危废智能监管]]
