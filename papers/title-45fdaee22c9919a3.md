@@ -1,0 +1,24 @@
+---
+title: "Private Assistant Agent"
+authors: [Le, Bao, '26]
+doi: ""
+score: 1
+date: 2026-05-07
+topics: ["大气环境计算新方法"]
+keywords: [大语言模型, 向量记忆, 个人助理, 模块化记忆管道, 文本界面]
+source: openalex
+---
+
+## Summary
+(No summary available)
+
+## Related Papers
+[[10.5281-zenodo.19428095]]
+[[10.5281-zenodo.19428094]]
+[[title-6eb412249575d69a]]
+[[title-2cb548795e7e72a8]]
+[[title-e8b73f104d74b32f]]
+[[title-75130b1c6f4b8f2a]]
+[[title-50218797b5e8b1ea]]
+[[title-8ebd4a293a0de39e]]
+[[大气环境计算新方法]]
